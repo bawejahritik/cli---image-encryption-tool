@@ -17,7 +17,7 @@ To decrypt an image, run the following command:
 go run . decrypt <encrypted_image_file_path>
 ```
 
-You will be prompted to enter the password used to encrypt the image. The decrypted image will be saved in the same directory as the encrypted image, with the `.dec` extension.
+You will be prompted to enter the password used to encrypt the image. The decrypted image will be saved in the same directory as the encrypted image.
 
 **Commands:**
 
